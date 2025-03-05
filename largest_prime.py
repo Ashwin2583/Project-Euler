@@ -18,8 +18,7 @@ def prime_factors(n):
     
     return factors
 
-# Example usage
-num = int(input("Enter a number: "))
+num = 600851475143 #the input
 factor = prime_factors(num)
 length = len(factor)
 print("Prime factors:", factor)
