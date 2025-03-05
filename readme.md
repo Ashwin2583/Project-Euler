@@ -22,3 +22,14 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > 
 > ### Program script
 > [Even_fibonacci](even_fibonacci.py)
+
+
+> ## Largest Prime Factor
+>
+> ### Problem Statement
+>
+> The prime factors of 13195 are 5,7,13 and 29. Which is the largest prime factor of the number 600851475143 
+>
+> ### Program script
+> [Largest_Prime_Factor](largest_prime.py)
+
