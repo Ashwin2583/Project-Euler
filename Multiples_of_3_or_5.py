@@ -1,6 +1,6 @@
 
 # inputing the number 
-num = 1000
+num = 1000 
 
 # funtion to find the arithmetic sum
 def arithmetic_sum(n,a,l):
