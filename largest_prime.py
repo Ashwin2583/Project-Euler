@@ -20,4 +20,7 @@ def prime_factors(n):
 
 # Example usage
 num = int(input("Enter a number: "))
-print("Prime factors:", prime_factors(num))
+factor = prime_factors(num)
+length = len(factor)
+print("Prime factors:", factor)
+print("The largest prime factor: ", factor[length-1])
