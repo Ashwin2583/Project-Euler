@@ -33,3 +33,12 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > ### Program script
 > [Largest_Prime_Factor](largest_prime.py)
 
+
+> ## Largest Palindrome Product
+> 
+> ### Problem Statement
+> A palindrome number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 x 99. Find the largest palindrome made form the product of two 3-digit numbers.
+>
+> ### Program script
+> [Largest_Palindrome](palindrome.py)
+
