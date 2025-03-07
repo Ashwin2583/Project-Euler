@@ -1,4 +1,4 @@
-n = 2 #input is 3
+n = 3 #input is 3
 
 # the product of 2 n-digit number lies in the range of these below
 lower_lim = 10**(n - 1)
@@ -17,14 +17,16 @@ def palindrome_check(x):
     else:
         return False
 
+large_num = 0
 # iteration for changing p and q and checking 
 # if it is palindrome or not within the bounds 
-pali = []
-for p in range(upper_lim,lower_lim,-1):
-    for q in range(p,lower_lim,-1):
+for p in range(upper_lim,lower_lim-1,-1):
+    for q in range(p,lower_lim-1,-1):
         pro = p*q
         if palindrome_check(pro):
-            pali.append(pro)
+            if pro > large_num: # for finding the largest number
+                large_num = pro
 
-print("The largest palindrome made form the product of two 3-digit numbers: ",pali[0])
+
+print("The largest palindrome made form the product of two 3-digit numbers: ",large_num)
 
