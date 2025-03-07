@@ -9,7 +9,7 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3,5,6 and 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
 >
 > ### Program script
-> [Multiples_of_3_or_5.py](Multiples_of_3_or_5.py)
+> **[Multiples of 3 or 5.py](Multiples_of_3_or_5.py)**
 
 
 > ## Even Fibonacci Numbers
@@ -21,7 +21,7 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-values terms.
 > 
 > ### Program script
-> [Even_fibonacci](even_fibonacci.py)
+> **[Even fibonacci](even_fibonacci.py)**
 
 
 > ## Largest Prime Factor
@@ -31,7 +31,7 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > The prime factors of 13195 are 5,7,13 and 29. Which is the largest prime factor of the number 600851475143 
 >
 > ### Program script
-> [Largest_Prime_Factor](largest_prime.py)
+> **[Largest Prime Factor](largest_prime.py)**
 
 
 > ## Largest Palindrome Product
@@ -40,5 +40,5 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > A palindrome number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 x 99. Find the largest palindrome made form the product of two 3-digit numbers.
 >
 > ### Program script
-> [Largest_Palindrome](palindrome.py)
+> **[Largest Palindrome](palindrome.py)**
 
