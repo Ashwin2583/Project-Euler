@@ -51,3 +51,13 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > ### Program script 
 > **[Smallest Multiple](smallest_multiple.py)**
 
+
+> ## Sum Square Difference
+>
+> ### Problem Statement
+> The sum of the square of the first ten natural number is, 385. The square of the sum of the first ten natural numbers is, 3025. Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 - 385 = 2640.
+> Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+>
+> ### Program script
+> **[Sum Square Difference](sum_square_difference.py)
+
