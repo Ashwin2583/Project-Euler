@@ -61,3 +61,12 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > ### Program script
 > **[Sum Square Difference](sum_square_difference.py)**
 
+
+> ## 10,001st Prime
+>
+> ### Problem Statement
+> BY listing the first six prime numbers: 2,3,5,7,11, and 13, we can see that the 6th prime is 13. What is the 10,001st prime number?
+>
+> ### Program script
+> **[10,001st Prime](10001st_prime.py)**
+
