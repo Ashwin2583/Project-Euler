@@ -42,3 +42,12 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > ### Program script
 > **[Largest Palindrome](palindrome.py)**
 
+
+> ## Smallest Multiple
+>
+> ### Problem Statement 
+> 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. What is the samllest positive numebr that is evenly divisible by all the numbers from 1 to 20?
+>
+> ### Program script 
+> **[Smallest Multiple](smallest_multiple.py)**
+
