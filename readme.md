@@ -59,5 +59,5 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 >
 > ### Program script
-> **[Sum Square Difference](sum_square_difference.py)
+> **[Sum Square Difference](sum_square_difference.py)**
 
