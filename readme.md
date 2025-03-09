@@ -109,3 +109,12 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > ### Program Script
 > **[Special Pythagorean Triplet](special_pythagorean_triplet.py)**
 
+
+> ## Summation of Primes
+>
+> ### Problem Statement
+> The sum of the primes below 10 is $2+3+5+7=17$. Find the sum of all the prime below two million.
+>
+> ### Program Script
+> **[Summation of Primes](summation_of_primes.py)**
+
