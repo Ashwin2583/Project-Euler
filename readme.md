@@ -158,14 +158,14 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > $ 1,3,6,10,15,21,28,36,45,55,\dots$ <br>
 > Let us list the factors of the seven triangle numbers: <br>
 > 
-> <center>
+> <div style='text-align: center'>
 > **1**: 1 <br> 
 > **3**: 1,3 <br> 
 > **6**: 1,2,3,6 <br> 
 > **10**: 1,2,5,10<br>
 > **15**: 1,3,5,15<br>
 > **21**: 1,3,7,21 <br>
-> **28**: 1,2,4,7,14,28 <br>  </center>
+> **28**: 1,2,4,7,14,28 <br>  </div>
 >
 > We can see that 28 is the first triangle number to have over five divisors. What is the value of the first triangle number to have over five hundred divisors?
 >
