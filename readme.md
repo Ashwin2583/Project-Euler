@@ -75,7 +75,9 @@ Computational solutions for the problems in the **[Euler project](https://projec
 >
 > ### Problem Statement
 > The four adjacent digits in the 1000-digit number that have the greatest product are 9 x 9 x 8 x 9 = 5832. Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
->> ### 1000-digit number
+>> <details>
+>> <summary> 1000-digit number </summary>
+>> <b>
 >>73167176531330624919225119674426574742355349194934
 >>96983520312774506326239578318016984801869478851843
 >>85861560789112949495459501737958331952853208805511
@@ -96,6 +98,8 @@ Computational solutions for the problems in the **[Euler project](https://projec
 >>84580156166097919133875499200524063689912560717606
 >>05886116467109405077541002256983155200055935729725
 >>71636269561882670428252483600823257530420752963450
+>> </b>
+>> </details>
 >
 > ### Program Script
 > **[Largest Product in a Series](Largest_product_in_a_series.py)**
@@ -123,6 +127,7 @@ Computational solutions for the problems in the **[Euler project](https://projec
 >
 > ### Problem Statement
 > In the 20 x 20 grid below, four numbers along a diagonal line have been marked in red. The product of these numbers is 26 x 63 x 78 x 14 = 1788696. What is the greates product of four adjacent numbers in the same direction (up,down,left,right or diagonallly) in the 20 x 20 grid?
+>> 
 >> ### 20x20 Grid
 >> $$ \begin{bmatrix}
 >>08&02&22&97&38&15&00&40&00&75&04&05&07&78&52&12&50&77&91&08 \cr
@@ -176,7 +181,9 @@ Computational solutions for the problems in the **[Euler project](https://projec
 >
 > ### Problem Statement
 > Work out the first ten digits of the sum of the following one-hundred 50-digit number.
->> ### one hundred 50-digit number
+>> <details>
+>> <summary> one hundred 50-digit number </summary> 
+>> <b>
 >> 37107287533902102798797998220837590246510135740250
 >> 46376937677490009712648124896970078050417018260538
 >> 74324986199524741059474233309513058123726617309629
@@ -276,7 +283,8 @@ Computational solutions for the problems in the **[Euler project](https://projec
 >> 77158542502016545090413245809786882778948721859617
 >> 72107838435069186155435662884062257473692284509516
 >> 20849603980134001723930671666823555245252804609722
->> 53503534226472524250874054075591789781264330331690
+>> 53503534226472524250874054075591789781264330331690 </b>
+>> </details>
 >
 > ### Program Script
 > **[Large Sum](large_sum.py)**
