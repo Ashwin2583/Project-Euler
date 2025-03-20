@@ -320,3 +320,12 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > ### Program Script
 > **[Lattice Paths](lattice_path.py)**
 
+
+> ## Power Digital Sum
+>
+> ### Problem Statement
+> $2^15 = 32768$ and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26. What is the sum of the digits of the number $2^1000$?
+>
+> ### Program Script
+> **[Power Digits Sum](power_digit_sum.py)**
+
