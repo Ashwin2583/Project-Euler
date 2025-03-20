@@ -307,3 +307,16 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > ### Program Script
 > **[Largest Collatz Sequence](longest_collatz_sequence.py)**
 
+
+> ## Lattice Path
+>
+> ### Problem Statement
+> Starting in the top left corner of a 2 x 2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.
+>
+>>![2x2 grid lattice path](https://projecteuler.net/resources/images/0015.png?1678992052) 
+>
+> How many such routes are there through a 20x20 grid?
+>
+> ### Program Script
+> **[Lattice Paths](lattice_path.py)**
+
