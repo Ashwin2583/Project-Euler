@@ -1,4 +1,10 @@
 
+def path_sum(arr):
+    for i in range(len(arr)-2,-1,-1): # i is row number
+        for j in range(len(arr[i])): # j is column number
+            arr[i][j] += max(arr[i+1][j], arr[i+1][j+1])
+    return arr[0][0]
+
 num = [
     [75],
     [95,64],
@@ -17,6 +23,4 @@ num = [
     [4,62,98,27,23,9,70,98,73,93,38,53,60,4,23]
     ]
 
-n = 0
-while n < len(num):
-    sum = num[0][0] +  
+print("The maximum total from top to bottom of the triangle: ",path_sum(num))
