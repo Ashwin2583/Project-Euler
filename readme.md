@@ -376,3 +376,16 @@ Computational solutions for the problems in the **[Euler project](https://projec
 >> &nbsp;04 62 98 27 23 09 70 98 73 93 38 53 60 04 23
 >> <b> </details>
 > **NOTE:** As there are only 16384 routes, it is possible to solve this problem by trying every route. However, Problem 67, is the same challenge with a triangle containing one-hundred rows; it cannot be solved by brute force, and reuires a clever method! ;O)
+
+
+> ## Counting Sundays
+>
+> ### Problem statement
+> You are given the following information, but you may prefer to do some research for yourself. 
+> - 1 Jan 1900 was a Monday.
+> - Thirty days has September, April, June and November. All the rest have thirty-one, Saving February alone, which has twenty-eight, rain or shine. And on leap years, twenty-nine.
+> - A leap year occurs on any year evenly divisible by 4, but not on a centuary unless it is divisible by 400.
+> How many SUndays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
+>
+> ### Program Script
+> **[Counting Sundays](counting_sundays.py)**
