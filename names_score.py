@@ -1,6 +1,7 @@
 alphabets = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 
              'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
+# function to find the score 
 def alpha_val(arr):
     sum = 0
     for i in arr:
@@ -10,10 +11,11 @@ def alpha_val(arr):
 
 path = r"C:\Users\ashwi\Downloads\0022_names.txt" # input the path of the file here
 
+# to read the file 
 with open(path, "r", encoding= 'utf-8') as file:
     text = file.read().strip()
 
-
+# to make it into a list 
 name_list = text.replace('"','').split(',')
 name_list.sort()
 
