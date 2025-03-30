@@ -4,10 +4,10 @@ num = ['0','1','2']
 
 p = math.factorial(len(num))
 
-for i in range(0,p):
-    print(num)
-    first = num[0]
-    last = num[len(num) - 1]
-    num[0] = last
-    num[len(num) - 1] = first
+num_1 = []
+for i in num:
+    num_1.append(i)
+    for j in range(i+1,len(num)):
+        
+
 
