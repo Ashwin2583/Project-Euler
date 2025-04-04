@@ -446,3 +446,13 @@ Computational solutions for the problems in the **[Euler project](https://projec
 > **[Lexicographic Permutaions](lexicographix_permutations.py)**
 
 
+> ## 1000-digit Fibonacci Number
+> 
+> ### Problem Statement
+> The Fibonacci sequence is defined by the recurrence relation: <br>
+> F_n = F_n-1 + F_n-2, where F_1 = 1 and F_2 = 1
+> What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
+>
+> ### Program Script
+> **[1000-digit Fibonacci Number](1000-digit_fibonacci_number.py)**
+
